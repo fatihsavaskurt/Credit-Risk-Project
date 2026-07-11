@@ -108,29 +108,7 @@ Both Random Forest and XGBoost achieved the strongest overall performance. The f
 - Scikit-learn
 - XGBoost
 - Jupyter Notebook
-
----
-
-## Repository Structure
-
-```text
-credit-default-risk-prediction/
-│
-├── notebooks/
-│   ├── 01_credit_default_prediction.ipynb
-│   └── 02_model_evaluation.ipynb
-│
-├── images/
-│
-├── models/
-│
-├── submissions/
-│   └── submission.csv
-│
-├── requirements.txt
-└── README.md
-```
-
+- 
 ---
 
 ## Future Improvements
